@@ -12,6 +12,7 @@ William Chen
 Ashton Cho
 <Calvin>
 Dylan Starink
+<Meera>
 ```
 
 Then make a completely new change here: 
@@ -28,6 +29,7 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 - [ ] didnt plagiarize a checklist
 - [ ] List
 - [ ] Create a Checklist
+- [x] Completed Checklist 
 
 <h1>Big word</h1>
 Hello - Allison
