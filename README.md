@@ -12,7 +12,7 @@ William Chen
 Ashton Cho
 <Calvin>
 Dylan Starink
-<Meera>
+Meera
 ```
 
 Then make a completely new change here: 
